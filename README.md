@@ -140,7 +140,10 @@ Get-FileHash matte-gui-vX.Y.Z-windows-x86_64.zip -Algorithm SHA256
 
 ## License
 
-Apache-2.0.
+**Proprietary — All rights reserved.** Copyright © Spinsoft
+Transcription. The binaries on this repo are made available for use
+as-is; redistribution, reverse-engineering, or derivative works are
+not permitted.
 
 ---
 
@@ -290,4 +293,6 @@ Get-FileHash matte-gui-vX.Y.Z-windows-x86_64.zip -Algorithm SHA256
 
 ## License
 
-Apache-2.0
+**Proprietary — สงวนลิขสิทธิ์ทุกประการ** © Spinsoft Transcription
+Binary บน repo นี้แจกให้ใช้งานได้ตามสภาพ ไม่อนุญาตให้นำไป
+redistribute, reverse-engineer หรือทำงานต่อยอด
